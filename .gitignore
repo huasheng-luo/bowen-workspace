@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 编辑器
+.vscode/
+.idea/
+
+# 凭证（绝对不要上传）
+.env
+*.key
+*.pem
+token.txt
